@@ -11,8 +11,7 @@ This project aimed to create a contact form using Flask that allows users to sen
 
 ## Learning Highlights
 
-1. __Integrating Bootstrap for Styling:__
-   
+### 1. Integrating Bootstrap for Styling:
   - I successfully applied Bootstrap's CSS classes to enhance the visual layout of the website, making it more appealing and user-friendly. This included using Bootstrap's grid system for layout management and its components for elements like buttons, forms, and responsive layouts.
 
 2. __Understanding Form Structure:__

@@ -10,8 +10,11 @@ While working on a Flask application with a contact form, I learned several key 
 This project aimed to create a contact form using Flask that allows users to send their messages directly to my email. The form collects the user's name, email address, phone number, and message, and upon submission, sends this information to my email address using the SMTP protocol.
 
 ### Demo
-![](https://github.com/AlvinChin1608/day60_100/blob/main/gif_demo/ScreenRecording2024-07-25at23.14.08-ezgif.com-video-to-gif-converter.gif)
+The website 
 ![](https://github.com/AlvinChin1608/day59_100/blob/main/gif_demo/ScreenRecording2024-07-25at16.55.18-ezgif.com-video-to-gif-converter.gif)
+
+Website with working contact form
+![](https://github.com/AlvinChin1608/day60_100/blob/main/gif_demo/ScreenRecording2024-07-25at23.14.08-ezgif.com-video-to-gif-converter.gif)
 
 ## Learning Highlights
 
@@ -35,3 +38,4 @@ This project aimed to create a contact form using Flask that allows users to sen
 
 ## Conclusion
 This project provided valuable insights into web development with Flask, specifically in handling form submissions and email integration. It was a great learning experience that helped me understand the importance of server-side data handling and secure email communication. Moving forward, I plan to implement additional features, such as form validation and confirmation emails, to further improve the functionality and user experience of my website.
+

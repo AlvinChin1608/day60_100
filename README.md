@@ -14,17 +14,17 @@ This project aimed to create a contact form using Flask that allows users to sen
 ### 1. Integrating Bootstrap for Styling:
   - I successfully applied Bootstrap's CSS classes to enhance the visual layout of the website, making it more appealing and user-friendly. This included using Bootstrap's grid system for layout management and its components for elements like buttons, forms, and responsive layouts.
 
-2. __Understanding Form Structure:__
+### 2. Understanding Form Structure:
 
   - __Form Basics:__ I learned about structuring forms with input fields, labels, and buttons. The form collects user inputs such as name, email, phone number, and message. Each input field is paired with a label to improve accessibility and user experience.
   - __Form Attributes:__ I used attributes like __'action'__ and __'method'___ to specify how and where the form data should be sent. The __'action'__ attribute defines the URL endpoint on the server that handles the form submission, while the __'method'___ attribute determines how the data is sent, typically using the __'POST'__ method for secure data transmission.
 
-3. __Implementing Form Handling in Flask:__
+### 3. Implementing Form Handling in Flask:
 
   - __Setting Up Routes:__ I set up a route in Flask to handle form submissions using the __'POST'__ method. This allowed me to securely transmit form data to the server.
   - __Accessing Form Data:__ By utilizing __'request.form'__, I was able to retrieve user input from the form fields on the server side, enabling me to process and use the data as needed.
     
-4. __SMTP and Email Sending:__
+### 4. SMTP and Email Sending:
 
   - __smtplib Integration:__ To send form submissions to my email, I integrated Python's smtplib library, which involved configuring SMTP settings and securely logging in with my email credentials.
   - __Email Message Composition:__ I crafted email messages using Python string manipulation to include the user's input, ensuring the format was clear and concise.

@@ -10,11 +10,11 @@ While working on a Flask application with a contact form, I learned several key 
 This project aimed to create a contact form using Flask that allows users to send their messages directly to my email. The form collects the user's name, email address, phone number, and message, and upon submission, sends this information to my email address using the SMTP protocol.
 
 ### Demo
-The website 
+#### The website 
 
 ![](https://github.com/AlvinChin1608/day59_100/blob/main/gif_demo/ScreenRecording2024-07-25at16.55.18-ezgif.com-video-to-gif-converter.gif)
 
-#### With working Contact Form
+#### With a working Contact Form
 
 ![](https://github.com/AlvinChin1608/day60_100/blob/main/gif_demo/ScreenRecording2024-07-25at23.14.08-ezgif.com-video-to-gif-converter.gif)
 

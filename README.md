@@ -1,4 +1,7 @@
 # day60_100
+I am currently engaged in a 100-day Python Bootcamp, which I am documenting and sharing my progress on GitHub. The boot camp is designed to progressively intensify, allowing me to deepen my understanding and proficiency in Python programming.
+
+Additionally, I have chosen to include the beginner, intermediate and advanced in my documentation to provide a valuable reference for my future growth and development.
 
 # Building a Flask Contact Form with Email Functionality
 While working on a Flask application with a contact form, I learned several key web development and email communication concepts. Here's a summary of my learning experience:
@@ -8,6 +11,7 @@ This project aimed to create a contact form using Flask that allows users to sen
 
 ### Demo
 ![](https://github.com/AlvinChin1608/day60_100/blob/main/gif_demo/ScreenRecording2024-07-25at23.14.08-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/AlvinChin1608/day59_100/blob/main/gif_demo/ScreenRecording2024-07-25at16.55.18-ezgif.com-video-to-gif-converter.gif)
 
 ## Learning Highlights
 
